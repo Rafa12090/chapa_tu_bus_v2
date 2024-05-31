@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # chapa_tu_bus_app - Flutter App v1.0.0
-![Avance de la aplicación móvil de chapa tu bus app]('/assets/gifs/avance_app_movil.gif')
+## Description: Avance de la aplicación móvil Chapa Tu Bus
+<img src="./assets/gifs/avance_app_movil.gif"/>
